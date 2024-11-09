@@ -1,0 +1,4 @@
+repository "Temporay@simsim22@cloud"
+  path "/"
+    br "/main"
+    co "/main"
